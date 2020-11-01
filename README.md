@@ -9,5 +9,5 @@ To see the project you have to use Jupyter Notebook, and open **U.S. Medical Ins
 ## Installing Jypyter Notebook
 To install jupyter notebook follow instructions on this page: https://jupyter.org/install
 
-## The source of teh dataset 
+## The source of the dataset 
 https://www.kaggle.com/mirichoi0218/insurance
